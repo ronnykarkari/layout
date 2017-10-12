@@ -1,0 +1,228 @@
+header {
+	background-image: url(slidedep.jpg);
+	
+	}
+
+body{
+	background-color: lightgrey;
+	height: 2500px;
+}			
+
+article {
+	width: 40%;
+
+}
+article img{
+	width: 100%;
+
+	}
+
+
+a:visited {
+	color: white;
+}
+
+a:link {
+	color: white;
+}
+
+.class123{
+	margin-top: 160px;
+	font-size: 25px;
+	color: white;
+
+}
+
+h1{
+	font-size: 60px;
+	margin-top: 0px;
+}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+h2 {
+	font-size: 50px;
+
+
+	
+}
+
+
+.een123{
+	
+	
+	text-align: center;
+
+
+	}
+
+#choco{
+	margin-top: 66px;
+	
+}	
+
+#tekst1{
+	
+}
+
+#tekst2{
+
+	
+}
+
+.schoen{
+	flex: 1;
+	
+
+}
+
+.schoen0{
+	flex: 1;
+
+}
+
+#schoen4{
+	flex: 1;
+	
+}
+
+#schoen5{
+	flex: 1;
+	
+	
+}
+
+section{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+
+}
+
+
+
+#tekst3{
+	padding-top: 0px;
+	width: 300px;
+	
+
+
+}
+img {
+	flex: 1;
+}
+
+li.paddestoel2{
+	font-size: 30px;
+	padding: 5px;
+    color: white;
+    width: 35%;
+    background-color: black;
+    border: 3px solid white;
+    margin-bottom: 50px;
+    order: 1;
+    overflow: hidden;
+}
+
+ul.paddestoel{
+	background-color: lightgrey;
+	display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-evenly;
+    overflow: hidden;
+    background-color: grey;
+}
+
+.lols{
+	font-size: 25px;
+	padding-top: 5px;
+}
+
+#lols2 {
+	height: 40px;
+}
+
+
+
+figure{
+	float: right;
+	width: 300px;
+}
+
+aside{
+	width: 200px;
+
+}
+
+#bal{
+	float: right;
+}
+
+#stoel1{
+	background-color: lightgrey;
+	display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-evenly;
+    overflow: hidden;
+    background-color: grey;
+}
+
+}
+
+#stoel2{
+   font-size: 30px;
+	padding: 5px;
+    color: white;
+    width: 35%;
+    background-color: black;
+    border: 3px solid white;
+    margin-bottom: 50px;
+    order: 1;
+    overflow: hidden;
+}
+
+aside{
+	width: 200px;
+}
+
+#bewerk{
+	float: left;
+}
+
+#bewerk1{
+	float: right;
+}
+
+main{
+	width: 900px;
+	margin: 0 auto;
+}
+
+aside img{
+width: 100%;
+}
