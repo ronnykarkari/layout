@@ -9,7 +9,7 @@ body{
 }			
 
 article {
-	width: 40%;
+	width: 35%;
 
 }
 article img{
@@ -124,7 +124,7 @@ section{
 
 #tekst3{
 	padding-top: 0px;
-	width: 300px;
+	width: 400px;
 	
 
 
@@ -150,7 +150,7 @@ ul.paddestoel{
 	display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    width: 100%;
+ 	max-width: 100%;
     justify-content: space-evenly;
     overflow: hidden;
     background-color: grey;
@@ -211,7 +211,8 @@ aside{
 }
 
 #bewerk{
-	float: left;
+	float: right;
+	width: 300px;
 }
 
 #bewerk1{
@@ -219,10 +220,14 @@ aside{
 }
 
 main{
-	width: 900px;
+	
 	margin: 0 auto;
 }
 
 aside img{
 width: 100%;
+}
+
+#font{
+	font-size: 70%;
 }
